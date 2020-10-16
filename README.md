@@ -9,7 +9,7 @@ modified: 2011 Apr 16
 
 ---
 
-Solarized hi~
+Solarized hhh
 =========
 
 ## Precision colors for machines and people
